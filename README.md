@@ -1,2 +1,0 @@
-# intellij
-snooping on intellij
